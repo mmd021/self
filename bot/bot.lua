@@ -114,11 +114,9 @@ function create_config( )
     "plug",
     "self-manager",
     "info",
-    "inrealm",
     "me",
     "s-sudo",
     "silent-user",
-    "filter",
     "tp",
     "d",
     "silent-gp"
