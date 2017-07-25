@@ -123,7 +123,7 @@ function create_config( )
     "d",
     "silent-gp"
 	},
-    sudo_users = {304331223,267081450,244578841,291261307,189578347},
+    sudo_users = {387429836,387429836},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
