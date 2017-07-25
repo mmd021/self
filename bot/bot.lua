@@ -118,7 +118,6 @@ function create_config( )
     "me",
     "s-sudo",
     "silent-user",
-    "supergp",
     "filter",
     "tp",
     "d",
